@@ -15,4 +15,4 @@
 1. 有序列表
 
 `print("helloworld")`
-``print(helloworld)``
+``print("helloworld")``
