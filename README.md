@@ -1,18 +1,18 @@
-## Hello,youkeda!
+## 今天学习了MarkDown
 
-### 三级标题
-**加粗**
-*斜体*
+MarkDown是一种超文本语言，禁停啊我第一次学习了它。
 
-插入图片：![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1599920553431&di=420f244e40acc55c575c51c54db102f4&imgtype=0&src=http%3A%2F%2Fbpic.588ku.com%2Felement_origin_min_pic%2F01%2F54%2F84%2F235747390944085.jpg)
+` Hello MarkDown！ `
 
-* 无序列表
-* 无序列表
-* 无序列表
+接下来我还会学习：
 
-1. 有序列表
-1. 有序列表
-1. 有序列表
+1.Git的基础命令
+1.Hexo框架
+1.Hexo更换主题
 
-`print("helloworld")`
-``print("helloworld")``
+用命令行敲命令是一种**Geek**行为，我觉得还挺有趣的
+
+`` Geek是指极客,通常被用于形容对计算机和网络技术有狂热兴趣并投入大量时间钻研的人。所以俗称发烧友或怪杰 ``
+
+有点意思，下面这张gif可以形容我的心情：
+![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
